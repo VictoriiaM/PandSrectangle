@@ -11,7 +11,6 @@ public class Main {
         System.out.println("Программа высчитывает периметр и площадь прямоугольника:");
         System.out.println("P=2*(a+b)");
         System.out.println("S=a*b");
-        System.out.println("Введите a и b");
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите стороны прямоугольника a и b: ");
         a = sc.nextInt();
